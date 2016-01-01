@@ -1,0 +1,661 @@
+2015-08-06T14:31:09.096+0200,532,Log in,200,Users 1-1,true,30542,1,1,531,1,0,MacBook-Pro.local
+2015-08-06T14:31:09.469+0200,362,Front-page (authenticated),200,Users 1-1,true,52031,1,1,362,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.182+0200,493,Site map (authenticated),200,Users 1-1,true,32665,1,1,493,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.643+0200,460,Dashboard,200,Users 1-1,true,31045,1,1,460,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.898+0200,254,Dashboard edit,200,Users 1-1,true,42441,1,1,254,1,0,MacBook-Pro.local
+2015-08-06T14:31:11.561+0200,662,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,662,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.059+0200,497,Manage portlets,200,Users 1-1,true,35789,1,1,497,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.496+0200,436,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,436,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.728+0200,231,Personal preferences,200,Users 1-1,true,42574,1,1,231,1,0,MacBook-Pro.local
+2015-08-06T14:31:13.172+0200,444,Personal information,200,Users 1-1,true,36223,1,1,444,1,0,MacBook-Pro.local
+2015-08-06T14:31:13.777+0200,604,Folder contents,200,Users 1-1,true,97442,1,1,604,1,0,MacBook-Pro.local
+2015-08-06T14:31:14.294+0200,516,Manage content rules,200,Users 1-1,true,35928,1,1,516,1,0,MacBook-Pro.local
+2015-08-06T14:31:14.577+0200,282,Sharing,200,Users 1-1,true,40290,1,1,281,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.370+0200,793,Add Folder (dexterity),200,Users 1-1,true,67432,1,1,362,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.373+0200,6815,Transaction Controller (authenticated),200,Users 1-1,true,622632,1,1,6133,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.445+0200,72,Front-page (anonymous),200,Users 1-1,true,25293,1,1,72,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.483+0200,37,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.528+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.560+0200,31,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,31,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.662+0200,101,Contact info (anonymous),200,Users 1-1,true,29185,1,1,101,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.705+0200,43,Search (anonymous),200,Users 1-1,true,32848,1,1,42,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.705+0200,332,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,327,1,0,MacBook-Pro.local
+2015-08-06T14:31:16.187+0200,481,Log in,200,Users 1-1,true,30542,1,1,481,1,0,MacBook-Pro.local
+2015-08-06T14:31:16.781+0200,593,Front-page (authenticated),200,Users 1-1,true,52237,1,1,593,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.243+0200,461,Site map (authenticated),200,Users 1-1,true,32665,1,1,461,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.460+0200,217,Dashboard,200,Users 1-1,true,31045,1,1,217,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.981+0200,520,Dashboard edit,200,Users 1-1,true,42441,1,1,520,1,0,MacBook-Pro.local
+2015-08-06T14:31:18.448+0200,466,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,466,1,0,MacBook-Pro.local
+2015-08-06T14:31:18.737+0200,288,Manage portlets,200,Users 1-1,true,35789,1,1,288,1,0,MacBook-Pro.local
+2015-08-06T14:31:19.208+0200,470,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,470,1,0,MacBook-Pro.local
+2015-08-06T14:31:19.659+0200,450,Personal preferences,200,Users 1-1,true,42574,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.102+0200,443,Personal information,200,Users 1-1,true,36223,1,1,443,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.701+0200,598,Folder contents,200,Users 1-1,true,99429,1,1,597,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.995+0200,293,Manage content rules,200,Users 1-1,true,36134,1,1,293,1,0,MacBook-Pro.local
+2015-08-06T14:31:21.566+0200,571,Sharing,200,Users 1-1,true,40496,1,1,571,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.350+0200,784,Add Folder (dexterity),200,Users 1-1,true,67638,1,1,150,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.351+0200,6645,Transaction Controller (authenticated),200,Users 1-1,true,625443,1,1,6000,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.434+0200,82,Front-page (anonymous),200,Users 1-1,true,25293,1,1,82,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.472+0200,38,Login page (anonymous),200,Users 1-1,true,23535,1,1,38,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.515+0200,43,Site map (anonymous),200,Users 1-1,true,22188,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.549+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,32,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.673+0200,124,Contact info (anonymous),200,Users 1-1,true,29185,1,1,124,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.719+0200,45,Search (anonymous),200,Users 1-1,true,32848,1,1,45,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.720+0200,368,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,364,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.192+0200,471,Log in,200,Users 1-1,true,30542,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.503+0200,310,Front-page (authenticated),200,Users 1-1,true,52443,1,1,309,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.990+0200,486,Site map (authenticated),200,Users 1-1,true,32665,1,1,486,1,0,MacBook-Pro.local
+2015-08-06T14:31:24.433+0200,442,Dashboard,200,Users 1-1,true,31045,1,1,441,1,0,MacBook-Pro.local
+2015-08-06T14:31:24.890+0200,457,Dashboard edit,200,Users 1-1,true,42441,1,1,457,1,0,MacBook-Pro.local
+2015-08-06T14:31:25.140+0200,249,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,249,1,0,MacBook-Pro.local
+2015-08-06T14:31:25.582+0200,441,Manage portlets,200,Users 1-1,true,35789,1,1,441,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.040+0200,457,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,457,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.337+0200,296,Personal preferences,200,Users 1-1,true,42574,1,1,296,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.791+0200,453,Personal information,200,Users 1-1,true,36223,1,1,453,1,0,MacBook-Pro.local
+2015-08-06T14:31:27.408+0200,617,Folder contents,200,Users 1-1,true,101416,1,1,617,1,0,MacBook-Pro.local
+2015-08-06T14:31:27.911+0200,502,Manage content rules,200,Users 1-1,true,36340,1,1,502,1,0,MacBook-Pro.local
+2015-08-06T14:31:28.172+0200,260,Sharing,200,Users 1-1,true,40702,1,1,260,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.009+0200,836,Add Folder (dexterity),200,Users 1-1,true,67844,1,1,132,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.010+0200,6289,Transaction Controller (authenticated),200,Users 1-1,true,628254,1,1,5571,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.082+0200,72,Front-page (anonymous),200,Users 1-1,true,25293,1,1,72,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.122+0200,39,Login page (anonymous),200,Users 1-1,true,23535,1,1,38,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.171+0200,49,Site map (anonymous),200,Users 1-1,true,22188,1,1,49,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.205+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.310+0200,105,Contact info (anonymous),200,Users 1-1,true,29185,1,1,105,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.359+0200,48,Search (anonymous),200,Users 1-1,true,32848,1,1,47,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.359+0200,349,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,344,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.807+0200,447,Log in,200,Users 1-1,true,30542,1,1,446,1,0,MacBook-Pro.local
+2015-08-06T14:31:30.110+0200,303,Front-page (authenticated),200,Users 1-1,true,52649,1,1,303,1,0,MacBook-Pro.local
+2015-08-06T14:31:30.562+0200,450,Site map (authenticated),200,Users 1-1,true,32665,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.001+0200,438,Dashboard,200,Users 1-1,true,31045,1,1,438,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.534+0200,532,Dashboard edit,200,Users 1-1,true,42441,1,1,532,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.797+0200,262,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,262,1,0,MacBook-Pro.local
+2015-08-06T14:31:32.284+0200,486,Manage portlets,200,Users 1-1,true,35789,1,1,486,1,0,MacBook-Pro.local
+2015-08-06T14:31:32.734+0200,450,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:33.195+0200,461,Personal preferences,200,Users 1-1,true,42574,1,1,460,1,0,MacBook-Pro.local
+2015-08-06T14:31:33.424+0200,228,Personal information,200,Users 1-1,true,36223,1,1,228,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.032+0200,607,Folder contents,200,Users 1-1,true,103403,1,1,606,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.545+0200,513,Manage content rules,200,Users 1-1,true,36546,1,1,513,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.827+0200,281,Sharing,200,Users 1-1,true,40908,1,1,281,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.665+0200,837,Add Folder (dexterity),200,Users 1-1,true,68050,1,1,132,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.666+0200,6307,Transaction Controller (authenticated),200,Users 1-1,true,631065,1,1,5587,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.738+0200,71,Front-page (anonymous),200,Users 1-1,true,25293,1,1,71,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.777+0200,38,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.821+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.854+0200,32,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,32,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.954+0200,99,Contact info (anonymous),200,Users 1-1,true,29185,1,1,99,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.000+0200,45,Search (anonymous),200,Users 1-1,true,32848,1,1,45,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.001+0200,335,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,328,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.464+0200,463,Log in,200,Users 1-1,true,30542,1,1,463,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.004+0200,539,Front-page (authenticated),200,Users 1-1,true,52855,1,1,539,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.251+0200,247,Site map (authenticated),200,Users 1-1,true,32665,1,1,246,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.691+0200,440,Dashboard,200,Users 1-1,true,31045,1,1,440,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.147+0200,455,Dashboard edit,200,Users 1-1,true,42441,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.611+0200,464,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.901+0200,289,Manage portlets,200,Users 1-1,true,35789,1,1,289,1,0,MacBook-Pro.local
+2015-08-06T14:31:39.391+0200,489,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,489,1,0,MacBook-Pro.local
+2015-08-06T14:31:39.846+0200,454,Personal preferences,200,Users 1-1,true,42574,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:40.306+0200,459,Personal information,200,Users 1-1,true,36223,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:31:40.698+0200,392,Folder contents,200,Users 1-1,true,105308,1,1,392,1,0,MacBook-Pro.local
+2015-08-06T14:31:41.204+0200,505,Manage content rules,200,Users 1-1,true,36752,1,1,505,1,0,MacBook-Pro.local
+2015-08-06T14:31:41.775+0200,570,Sharing,200,Users 1-1,true,41114,1,1,570,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.558+0200,783,Add Folder (dexterity),200,Users 1-1,true,68256,1,1,145,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.559+0200,6558,Transaction Controller (authenticated),200,Users 1-1,true,633794,1,1,5909,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.634+0200,75,Front-page (anonymous),200,Users 1-1,true,25293,1,1,74,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.667+0200,33,Login page (anonymous),200,Users 1-1,true,23535,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.711+0200,43,Site map (anonymous),200,Users 1-1,true,22188,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.740+0200,29,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,29,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.839+0200,98,Contact info (anonymous),200,Users 1-1,true,29185,1,1,98,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.882+0200,43,Search (anonymous),200,Users 1-1,true,32848,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.883+0200,324,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,320,1,0,MacBook-Pro.local
+2015-08-06T14:31:43.116+0200,233,Log in,200,Users 1-1,true,30542,1,1,233,1,0,MacBook-Pro.local
+2015-08-06T14:31:43.640+0200,524,Front-page (authenticated),200,Users 1-1,true,53061,1,1,524,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.158+0200,517,Site map (authenticated),200,Users 1-1,true,32665,1,1,517,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.390+0200,231,Dashboard,200,Users 1-1,true,31045,1,1,231,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.855+0200,464,Dashboard edit,200,Users 1-1,true,42441,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:45.370+0200,514,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,514,1,0,MacBook-Pro.local
+2015-08-06T14:31:45.647+0200,276,Manage portlets,200,Users 1-1,true,35789,1,1,276,1,0,MacBook-Pro.local
+2015-08-06T14:31:46.100+0200,452,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,452,1,0,MacBook-Pro.local
+2015-08-06T14:31:46.646+0200,546,Personal preferences,200,Users 1-1,true,42574,1,1,546,1,0,MacBook-Pro.local
+2015-08-06T14:31:47.088+0200,442,Personal information,200,Users 1-1,true,36223,1,1,442,1,0,MacBook-Pro.local
+2015-08-06T14:31:47.495+0200,406,Folder contents,200,Users 1-1,true,105514,1,1,406,1,0,MacBook-Pro.local
+2015-08-06T14:31:48.004+0200,508,Manage content rules,200,Users 1-1,true,36958,1,1,508,1,0,MacBook-Pro.local
+2015-08-06T14:31:48.477+0200,472,Sharing,200,Users 1-1,true,41320,1,1,472,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.343+0200,865,Add Folder (dexterity),200,Users 1-1,true,68462,1,1,139,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.344+0200,6461,Transaction Controller (authenticated),200,Users 1-1,true,634824,1,1,5724,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.418+0200,74,Front-page (anonymous),200,Users 1-1,true,25293,1,1,74,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.454+0200,36,Login page (anonymous),200,Users 1-1,true,23535,1,1,36,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.501+0200,46,Site map (anonymous),200,Users 1-1,true,22188,1,1,46,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.535+0200,34,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.637+0200,101,Contact info (anonymous),200,Users 1-1,true,29185,1,1,101,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.687+0200,49,Search (anonymous),200,Users 1-1,true,32848,1,1,48,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.687+0200,343,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,339,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.913+0200,226,Log in,200,Users 1-1,true,30542,1,1,226,1,0,MacBook-Pro.local
+2015-08-06T14:31:50.436+0200,522,Front-page (authenticated),200,Users 1-1,true,53267,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:31:50.899+0200,462,Site map (authenticated),200,Users 1-1,true,32665,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:31:51.137+0200,237,Dashboard,200,Users 1-1,true,31045,1,1,237,1,0,MacBook-Pro.local
+2015-08-06T14:31:51.694+0200,557,Dashboard edit,200,Users 1-1,true,42441,1,1,557,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.154+0200,459,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.591+0200,436,Manage portlets,200,Users 1-1,true,35789,1,1,436,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.822+0200,230,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,230,1,0,MacBook-Pro.local
+2015-08-06T14:31:53.277+0200,454,Personal preferences,200,Users 1-1,true,42574,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:53.729+0200,451,Personal information,200,Users 1-1,true,36223,1,1,451,1,0,MacBook-Pro.local
+2015-08-06T14:31:54.413+0200,684,Folder contents,200,Users 1-1,true,105720,1,1,684,1,0,MacBook-Pro.local
+2015-08-06T14:31:54.703+0200,290,Manage content rules,200,Users 1-1,true,37164,1,1,290,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.179+0200,475,Sharing,200,Users 1-1,true,41526,1,1,475,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.943+0200,764,Add Folder (dexterity),200,Users 1-1,true,68668,1,1,140,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.945+0200,6258,Transaction Controller (authenticated),200,Users 1-1,true,635854,1,1,5623,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.012+0200,67,Front-page (anonymous),200,Users 1-1,true,25293,1,1,67,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.047+0200,35,Login page (anonymous),200,Users 1-1,true,23535,1,1,35,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.092+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.126+0200,34,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.233+0200,106,Contact info (anonymous),200,Users 1-1,true,29185,1,1,106,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.284+0200,50,Search (anonymous),200,Users 1-1,true,32848,1,1,50,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.284+0200,339,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,336,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.578+0200,293,Log in,200,Users 1-1,true,30542,1,1,293,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.115+0200,536,Front-page (authenticated),200,Users 1-1,true,53473,1,1,536,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.580+0200,464,Site map (authenticated),200,Users 1-1,true,32665,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.823+0200,243,Dashboard,200,Users 1-1,true,31045,1,1,242,1,0,MacBook-Pro.local
+2015-08-06T14:31:58.294+0200,471,Dashboard edit,200,Users 1-1,true,42441,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:31:58.762+0200,467,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,467,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.264+0200,502,Manage portlets,200,Users 1-1,true,35789,1,1,502,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.499+0200,234,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,234,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.949+0200,449,Personal preferences,200,Users 1-1,true,42574,1,1,449,1,0,MacBook-Pro.local
+2015-08-06T14:32:00.412+0200,462,Personal information,200,Users 1-1,true,36223,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.027+0200,614,Folder contents,200,Users 1-1,true,105926,1,1,614,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.349+0200,321,Manage content rules,200,Users 1-1,true,37370,1,1,321,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.882+0200,533,Sharing,200,Users 1-1,true,41732,1,1,533,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.645+0200,762,Add Folder (dexterity),200,Users 1-1,true,68874,1,1,141,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.646+0200,6361,Transaction Controller (authenticated),200,Users 1-1,true,636884,1,1,5729,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.718+0200,71,Front-page (anonymous),200,Users 1-1,true,25293,1,1,71,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.753+0200,34,Login page (anonymous),200,Users 1-1,true,23535,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.796+0200,42,Site map (anonymous),200,Users 1-1,true,22188,1,1,42,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.830+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.933+0200,102,Contact info (anonymous),200,Users 1-1,true,29185,1,1,102,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.982+0200,48,Search (anonymous),200,Users 1-1,true,32848,1,1,48,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.982+0200,336,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,330,1,0,MacBook-Pro.local
+2015-08-06T14:32:03.241+0200,258,Log in,200,Users 1-1,true,30542,1,1,258,1,0,MacBook-Pro.local
+2015-08-06T14:32:03.816+0200,574,Front-page (authenticated),200,Users 1-1,true,53679,1,1,574,1,0,MacBook-Pro.local
+2015-08-06T14:32:04.339+0200,522,Site map (authenticated),200,Users 1-1,true,32665,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:32:04.793+0200,453,Dashboard,200,Users 1-1,true,31045,1,1,453,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.033+0200,239,Dashboard edit,200,Users 1-1,true,42441,1,1,239,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.495+0200,462,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.946+0200,450,Manage portlets,200,Users 1-1,true,35789,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:32:06.185+0200,239,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,239,1,0,MacBook-Pro.local
+2015-08-06T14:32:06.697+0200,511,Personal preferences,200,Users 1-1,true,42574,1,1,511,1,0,MacBook-Pro.local
+2015-08-06T14:32:07.136+0200,438,Personal information,200,Users 1-1,true,36223,1,1,438,1,0,MacBook-Pro.local
+2015-08-06T14:32:07.741+0200,604,Folder contents,200,Users 1-1,true,106132,1,1,604,1,0,MacBook-Pro.local
+2015-08-06T14:32:08.041+0200,299,Manage content rules,200,Users 1-1,true,37576,1,1,298,1,0,MacBook-Pro.local
+2015-08-06T14:32:08.548+0200,507,Sharing,200,Users 1-1,true,41938,1,1,507,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.369+0200,820,Add Folder (dexterity),200,Users 1-1,true,69080,1,1,143,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.370+0200,6387,Transaction Controller (authenticated),200,Users 1-1,true,637914,1,1,5698,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.446+0200,76,Front-page (anonymous),200,Users 1-1,true,25293,1,1,76,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.488+0200,41,Login page (anonymous),200,Users 1-1,true,23535,1,1,41,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.534+0200,46,Site map (anonymous),200,Users 1-1,true,22188,1,1,46,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.567+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.688+0200,120,Contact info (anonymous),200,Users 1-1,true,29185,1,1,120,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.740+0200,51,Search (anonymous),200,Users 1-1,true,32848,1,1,51,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.741+0200,371,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,367,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.200+0200,459,Log in,200,Users 1-1,true,30542,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.514+0200,314,Front-page (authenticated),200,Users 1-1,true,53885,1,1,314,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.986+0200,471,Site map (authenticated),200,Users 1-1,true,32665,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:32:11.448+0200,461,Dashboard,200,Users 1-1,true,31045,1,1,461,1,0,MacBook-Pro.local
+2015-08-06T14:32:11.742+0200,293,Dashboard edit,200,Users 1-1,true,42441,1,1,292,1,0,MacBook-Pro.local
+2015-08-06T14:32:12.192+0200,450,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:32:12.625+0200,432,Manage portlets,200,Users 1-1,true,35789,1,1,432,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.063+0200,437,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,437,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.289+0200,226,Personal preferences,200,Users 1-1,true,42574,1,1,226,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.738+0200,448,Personal information,200,Users 1-1,true,36223,1,1,448,1,0,MacBook-Pro.local
+2015-08-06T14:32:14.395+0200,657,Folder contents,200,Users 1-1,true,106338,1,1,657,1,0,MacBook-Pro.local
+2015-08-06T14:32:14.918+0200,522,Manage content rules,200,Users 1-1,true,37782,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:32:15.187+0200,268,Sharing,200,Users 1-1,true,42144,1,1,267,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.048+0200,861,Add Folder (dexterity),200,Users 1-1,true,69286,1,1,139,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.049+0200,6308,Transaction Controller (authenticated),200,Users 1-1,true,638944,1,1,5575,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.126+0200,76,Front-page (anonymous),200,Users 1-1,true,25293,1,1,75,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.163+0200,37,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.207+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.240+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.350+0200,110,Contact info (anonymous),200,Users 1-1,true,29185,1,1,110,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,52,Search (anonymous),200,Users 1-1,true,32848,1,1,52,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,354,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,351,1,0,MacBook-Pro.local
+2015-08-06T14:31:09.096+0200,532,Log in,200,Users 1-1,true,30542,1,1,531,1,0,MacBook-Pro.local
+2015-08-06T14:31:09.469+0200,362,Front-page (authenticated),200,Users 1-1,true,52031,1,1,362,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.182+0200,493,Site map (authenticated),200,Users 1-1,true,32665,1,1,493,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.643+0200,460,Dashboard,200,Users 1-1,true,31045,1,1,460,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.898+0200,254,Dashboard edit,200,Users 1-1,true,42441,1,1,254,1,0,MacBook-Pro.local
+2015-08-06T14:31:11.561+0200,662,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,662,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.059+0200,497,Manage portlets,200,Users 1-1,true,35789,1,1,497,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.496+0200,436,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,436,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.728+0200,231,Personal preferences,200,Users 1-1,true,42574,1,1,231,1,0,MacBook-Pro.local
+2015-08-06T14:31:13.172+0200,444,Personal information,200,Users 1-1,true,36223,1,1,444,1,0,MacBook-Pro.local
+2015-08-06T14:31:13.777+0200,604,Folder contents,200,Users 1-1,true,97442,1,1,604,1,0,MacBook-Pro.local
+2015-08-06T14:31:14.294+0200,516,Manage content rules,200,Users 1-1,true,35928,1,1,516,1,0,MacBook-Pro.local
+2015-08-06T14:31:14.577+0200,282,Sharing,200,Users 1-1,true,40290,1,1,281,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.370+0200,793,Add Folder (dexterity),200,Users 1-1,true,67432,1,1,362,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.373+0200,6815,Transaction Controller (authenticated),200,Users 1-1,true,622632,1,1,6133,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.445+0200,72,Front-page (anonymous),200,Users 1-1,true,25293,1,1,72,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.483+0200,37,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.528+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.560+0200,31,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,31,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.662+0200,101,Contact info (anonymous),200,Users 1-1,true,29185,1,1,101,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.705+0200,43,Search (anonymous),200,Users 1-1,true,32848,1,1,42,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.705+0200,332,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,327,1,0,MacBook-Pro.local
+2015-08-06T14:31:16.187+0200,481,Log in,200,Users 1-1,true,30542,1,1,481,1,0,MacBook-Pro.local
+2015-08-06T14:31:16.781+0200,593,Front-page (authenticated),200,Users 1-1,true,52237,1,1,593,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.243+0200,461,Site map (authenticated),200,Users 1-1,true,32665,1,1,461,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.460+0200,217,Dashboard,200,Users 1-1,true,31045,1,1,217,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.981+0200,520,Dashboard edit,200,Users 1-1,true,42441,1,1,520,1,0,MacBook-Pro.local
+2015-08-06T14:31:18.448+0200,466,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,466,1,0,MacBook-Pro.local
+2015-08-06T14:31:18.737+0200,288,Manage portlets,200,Users 1-1,true,35789,1,1,288,1,0,MacBook-Pro.local
+2015-08-06T14:31:19.208+0200,470,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,470,1,0,MacBook-Pro.local
+2015-08-06T14:31:19.659+0200,450,Personal preferences,200,Users 1-1,true,42574,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.102+0200,443,Personal information,200,Users 1-1,true,36223,1,1,443,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.701+0200,598,Folder contents,200,Users 1-1,true,99429,1,1,597,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.995+0200,293,Manage content rules,200,Users 1-1,true,36134,1,1,293,1,0,MacBook-Pro.local
+2015-08-06T14:31:21.566+0200,571,Sharing,200,Users 1-1,true,40496,1,1,571,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.350+0200,784,Add Folder (dexterity),200,Users 1-1,true,67638,1,1,150,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.351+0200,6645,Transaction Controller (authenticated),200,Users 1-1,true,625443,1,1,6000,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.434+0200,82,Front-page (anonymous),200,Users 1-1,true,25293,1,1,82,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.472+0200,38,Login page (anonymous),200,Users 1-1,true,23535,1,1,38,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.515+0200,43,Site map (anonymous),200,Users 1-1,true,22188,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.549+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,32,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.673+0200,124,Contact info (anonymous),200,Users 1-1,true,29185,1,1,124,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.719+0200,45,Search (anonymous),200,Users 1-1,true,32848,1,1,45,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.720+0200,368,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,364,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.192+0200,471,Log in,200,Users 1-1,true,30542,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.503+0200,310,Front-page (authenticated),200,Users 1-1,true,52443,1,1,309,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.990+0200,486,Site map (authenticated),200,Users 1-1,true,32665,1,1,486,1,0,MacBook-Pro.local
+2015-08-06T14:31:24.433+0200,442,Dashboard,200,Users 1-1,true,31045,1,1,441,1,0,MacBook-Pro.local
+2015-08-06T14:31:24.890+0200,457,Dashboard edit,200,Users 1-1,true,42441,1,1,457,1,0,MacBook-Pro.local
+2015-08-06T14:31:25.140+0200,249,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,249,1,0,MacBook-Pro.local
+2015-08-06T14:31:25.582+0200,441,Manage portlets,200,Users 1-1,true,35789,1,1,441,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.040+0200,457,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,457,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.337+0200,296,Personal preferences,200,Users 1-1,true,42574,1,1,296,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.791+0200,453,Personal information,200,Users 1-1,true,36223,1,1,453,1,0,MacBook-Pro.local
+2015-08-06T14:31:27.408+0200,617,Folder contents,200,Users 1-1,true,101416,1,1,617,1,0,MacBook-Pro.local
+2015-08-06T14:31:27.911+0200,502,Manage content rules,200,Users 1-1,true,36340,1,1,502,1,0,MacBook-Pro.local
+2015-08-06T14:31:28.172+0200,260,Sharing,200,Users 1-1,true,40702,1,1,260,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.009+0200,836,Add Folder (dexterity),200,Users 1-1,true,67844,1,1,132,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.010+0200,6289,Transaction Controller (authenticated),200,Users 1-1,true,628254,1,1,5571,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.082+0200,72,Front-page (anonymous),200,Users 1-1,true,25293,1,1,72,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.122+0200,39,Login page (anonymous),200,Users 1-1,true,23535,1,1,38,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.171+0200,49,Site map (anonymous),200,Users 1-1,true,22188,1,1,49,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.205+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.310+0200,105,Contact info (anonymous),200,Users 1-1,true,29185,1,1,105,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.359+0200,48,Search (anonymous),200,Users 1-1,true,32848,1,1,47,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.359+0200,349,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,344,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.807+0200,447,Log in,200,Users 1-1,true,30542,1,1,446,1,0,MacBook-Pro.local
+2015-08-06T14:31:30.110+0200,303,Front-page (authenticated),200,Users 1-1,true,52649,1,1,303,1,0,MacBook-Pro.local
+2015-08-06T14:31:30.562+0200,450,Site map (authenticated),200,Users 1-1,true,32665,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.001+0200,438,Dashboard,200,Users 1-1,true,31045,1,1,438,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.534+0200,532,Dashboard edit,200,Users 1-1,true,42441,1,1,532,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.797+0200,262,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,262,1,0,MacBook-Pro.local
+2015-08-06T14:31:32.284+0200,486,Manage portlets,200,Users 1-1,true,35789,1,1,486,1,0,MacBook-Pro.local
+2015-08-06T14:31:32.734+0200,450,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:33.195+0200,461,Personal preferences,200,Users 1-1,true,42574,1,1,460,1,0,MacBook-Pro.local
+2015-08-06T14:31:33.424+0200,228,Personal information,200,Users 1-1,true,36223,1,1,228,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.032+0200,607,Folder contents,200,Users 1-1,true,103403,1,1,606,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.545+0200,513,Manage content rules,200,Users 1-1,true,36546,1,1,513,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.827+0200,281,Sharing,200,Users 1-1,true,40908,1,1,281,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.665+0200,837,Add Folder (dexterity),200,Users 1-1,true,68050,1,1,132,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.666+0200,6307,Transaction Controller (authenticated),200,Users 1-1,true,631065,1,1,5587,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.738+0200,71,Front-page (anonymous),200,Users 1-1,true,25293,1,1,71,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.777+0200,38,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.821+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.854+0200,32,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,32,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.954+0200,99,Contact info (anonymous),200,Users 1-1,true,29185,1,1,99,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.000+0200,45,Search (anonymous),200,Users 1-1,true,32848,1,1,45,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.001+0200,335,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,328,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.464+0200,463,Log in,200,Users 1-1,true,30542,1,1,463,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.004+0200,539,Front-page (authenticated),200,Users 1-1,true,52855,1,1,539,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.251+0200,247,Site map (authenticated),200,Users 1-1,true,32665,1,1,246,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.691+0200,440,Dashboard,200,Users 1-1,true,31045,1,1,440,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.147+0200,455,Dashboard edit,200,Users 1-1,true,42441,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.611+0200,464,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.901+0200,289,Manage portlets,200,Users 1-1,true,35789,1,1,289,1,0,MacBook-Pro.local
+2015-08-06T14:31:39.391+0200,489,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,489,1,0,MacBook-Pro.local
+2015-08-06T14:31:39.846+0200,454,Personal preferences,200,Users 1-1,true,42574,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:40.306+0200,459,Personal information,200,Users 1-1,true,36223,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:31:40.698+0200,392,Folder contents,200,Users 1-1,true,105308,1,1,392,1,0,MacBook-Pro.local
+2015-08-06T14:31:41.204+0200,505,Manage content rules,200,Users 1-1,true,36752,1,1,505,1,0,MacBook-Pro.local
+2015-08-06T14:31:41.775+0200,570,Sharing,200,Users 1-1,true,41114,1,1,570,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.558+0200,783,Add Folder (dexterity),200,Users 1-1,true,68256,1,1,145,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.559+0200,6558,Transaction Controller (authenticated),200,Users 1-1,true,633794,1,1,5909,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.634+0200,75,Front-page (anonymous),200,Users 1-1,true,25293,1,1,74,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.667+0200,33,Login page (anonymous),200,Users 1-1,true,23535,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.711+0200,43,Site map (anonymous),200,Users 1-1,true,22188,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.740+0200,29,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,29,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.839+0200,98,Contact info (anonymous),200,Users 1-1,true,29185,1,1,98,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.882+0200,43,Search (anonymous),200,Users 1-1,true,32848,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.883+0200,324,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,320,1,0,MacBook-Pro.local
+2015-08-06T14:31:43.116+0200,233,Log in,200,Users 1-1,true,30542,1,1,233,1,0,MacBook-Pro.local
+2015-08-06T14:31:43.640+0200,524,Front-page (authenticated),200,Users 1-1,true,53061,1,1,524,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.158+0200,517,Site map (authenticated),200,Users 1-1,true,32665,1,1,517,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.390+0200,231,Dashboard,200,Users 1-1,true,31045,1,1,231,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.855+0200,464,Dashboard edit,200,Users 1-1,true,42441,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:45.370+0200,514,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,514,1,0,MacBook-Pro.local
+2015-08-06T14:31:45.647+0200,276,Manage portlets,200,Users 1-1,true,35789,1,1,276,1,0,MacBook-Pro.local
+2015-08-06T14:31:46.100+0200,452,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,452,1,0,MacBook-Pro.local
+2015-08-06T14:31:46.646+0200,546,Personal preferences,200,Users 1-1,true,42574,1,1,546,1,0,MacBook-Pro.local
+2015-08-06T14:31:47.088+0200,442,Personal information,200,Users 1-1,true,36223,1,1,442,1,0,MacBook-Pro.local
+2015-08-06T14:31:47.495+0200,406,Folder contents,200,Users 1-1,true,105514,1,1,406,1,0,MacBook-Pro.local
+2015-08-06T14:31:48.004+0200,508,Manage content rules,200,Users 1-1,true,36958,1,1,508,1,0,MacBook-Pro.local
+2015-08-06T14:31:48.477+0200,472,Sharing,200,Users 1-1,true,41320,1,1,472,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.343+0200,865,Add Folder (dexterity),200,Users 1-1,true,68462,1,1,139,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.344+0200,6461,Transaction Controller (authenticated),200,Users 1-1,true,634824,1,1,5724,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.418+0200,74,Front-page (anonymous),200,Users 1-1,true,25293,1,1,74,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.454+0200,36,Login page (anonymous),200,Users 1-1,true,23535,1,1,36,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.501+0200,46,Site map (anonymous),200,Users 1-1,true,22188,1,1,46,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.535+0200,34,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.637+0200,101,Contact info (anonymous),200,Users 1-1,true,29185,1,1,101,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.687+0200,49,Search (anonymous),200,Users 1-1,true,32848,1,1,48,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.687+0200,343,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,339,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.913+0200,226,Log in,200,Users 1-1,true,30542,1,1,226,1,0,MacBook-Pro.local
+2015-08-06T14:31:50.436+0200,522,Front-page (authenticated),200,Users 1-1,true,53267,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:31:50.899+0200,462,Site map (authenticated),200,Users 1-1,true,32665,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:31:51.137+0200,237,Dashboard,200,Users 1-1,true,31045,1,1,237,1,0,MacBook-Pro.local
+2015-08-06T14:31:51.694+0200,557,Dashboard edit,200,Users 1-1,true,42441,1,1,557,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.154+0200,459,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.591+0200,436,Manage portlets,200,Users 1-1,true,35789,1,1,436,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.822+0200,230,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,230,1,0,MacBook-Pro.local
+2015-08-06T14:31:53.277+0200,454,Personal preferences,200,Users 1-1,true,42574,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:53.729+0200,451,Personal information,200,Users 1-1,true,36223,1,1,451,1,0,MacBook-Pro.local
+2015-08-06T14:31:54.413+0200,684,Folder contents,200,Users 1-1,true,105720,1,1,684,1,0,MacBook-Pro.local
+2015-08-06T14:31:54.703+0200,290,Manage content rules,200,Users 1-1,true,37164,1,1,290,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.179+0200,475,Sharing,200,Users 1-1,true,41526,1,1,475,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.943+0200,764,Add Folder (dexterity),200,Users 1-1,true,68668,1,1,140,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.945+0200,6258,Transaction Controller (authenticated),200,Users 1-1,true,635854,1,1,5623,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.012+0200,67,Front-page (anonymous),200,Users 1-1,true,25293,1,1,67,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.047+0200,35,Login page (anonymous),200,Users 1-1,true,23535,1,1,35,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.092+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.126+0200,34,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.233+0200,106,Contact info (anonymous),200,Users 1-1,true,29185,1,1,106,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.284+0200,50,Search (anonymous),200,Users 1-1,true,32848,1,1,50,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.284+0200,339,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,336,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.578+0200,293,Log in,200,Users 1-1,true,30542,1,1,293,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.115+0200,536,Front-page (authenticated),200,Users 1-1,true,53473,1,1,536,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.580+0200,464,Site map (authenticated),200,Users 1-1,true,32665,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.823+0200,243,Dashboard,200,Users 1-1,true,31045,1,1,242,1,0,MacBook-Pro.local
+2015-08-06T14:31:58.294+0200,471,Dashboard edit,200,Users 1-1,true,42441,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:31:58.762+0200,467,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,467,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.264+0200,502,Manage portlets,200,Users 1-1,true,35789,1,1,502,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.499+0200,234,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,234,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.949+0200,449,Personal preferences,200,Users 1-1,true,42574,1,1,449,1,0,MacBook-Pro.local
+2015-08-06T14:32:00.412+0200,462,Personal information,200,Users 1-1,true,36223,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.027+0200,614,Folder contents,200,Users 1-1,true,105926,1,1,614,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.349+0200,321,Manage content rules,200,Users 1-1,true,37370,1,1,321,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.882+0200,533,Sharing,200,Users 1-1,true,41732,1,1,533,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.645+0200,762,Add Folder (dexterity),200,Users 1-1,true,68874,1,1,141,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.646+0200,6361,Transaction Controller (authenticated),200,Users 1-1,true,636884,1,1,5729,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.718+0200,71,Front-page (anonymous),200,Users 1-1,true,25293,1,1,71,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.753+0200,34,Login page (anonymous),200,Users 1-1,true,23535,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.796+0200,42,Site map (anonymous),200,Users 1-1,true,22188,1,1,42,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.830+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.933+0200,102,Contact info (anonymous),200,Users 1-1,true,29185,1,1,102,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.982+0200,48,Search (anonymous),200,Users 1-1,true,32848,1,1,48,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.982+0200,336,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,330,1,0,MacBook-Pro.local
+2015-08-06T14:32:03.241+0200,258,Log in,200,Users 1-1,true,30542,1,1,258,1,0,MacBook-Pro.local
+2015-08-06T14:32:03.816+0200,574,Front-page (authenticated),200,Users 1-1,true,53679,1,1,574,1,0,MacBook-Pro.local
+2015-08-06T14:32:04.339+0200,522,Site map (authenticated),200,Users 1-1,true,32665,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:32:04.793+0200,453,Dashboard,200,Users 1-1,true,31045,1,1,453,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.033+0200,239,Dashboard edit,200,Users 1-1,true,42441,1,1,239,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.495+0200,462,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.946+0200,450,Manage portlets,200,Users 1-1,true,35789,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:32:06.185+0200,239,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,239,1,0,MacBook-Pro.local
+2015-08-06T14:32:06.697+0200,511,Personal preferences,200,Users 1-1,true,42574,1,1,511,1,0,MacBook-Pro.local
+2015-08-06T14:32:07.136+0200,438,Personal information,200,Users 1-1,true,36223,1,1,438,1,0,MacBook-Pro.local
+2015-08-06T14:32:07.741+0200,604,Folder contents,200,Users 1-1,true,106132,1,1,604,1,0,MacBook-Pro.local
+2015-08-06T14:32:08.041+0200,299,Manage content rules,200,Users 1-1,true,37576,1,1,298,1,0,MacBook-Pro.local
+2015-08-06T14:32:08.548+0200,507,Sharing,200,Users 1-1,true,41938,1,1,507,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.369+0200,820,Add Folder (dexterity),200,Users 1-1,true,69080,1,1,143,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.370+0200,6387,Transaction Controller (authenticated),200,Users 1-1,true,637914,1,1,5698,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.446+0200,76,Front-page (anonymous),200,Users 1-1,true,25293,1,1,76,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.488+0200,41,Login page (anonymous),200,Users 1-1,true,23535,1,1,41,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.534+0200,46,Site map (anonymous),200,Users 1-1,true,22188,1,1,46,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.567+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.688+0200,120,Contact info (anonymous),200,Users 1-1,true,29185,1,1,120,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.740+0200,51,Search (anonymous),200,Users 1-1,true,32848,1,1,51,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.741+0200,371,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,367,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.200+0200,459,Log in,200,Users 1-1,true,30542,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.514+0200,314,Front-page (authenticated),200,Users 1-1,true,53885,1,1,314,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.986+0200,471,Site map (authenticated),200,Users 1-1,true,32665,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:32:11.448+0200,461,Dashboard,200,Users 1-1,true,31045,1,1,461,1,0,MacBook-Pro.local
+2015-08-06T14:32:11.742+0200,293,Dashboard edit,200,Users 1-1,true,42441,1,1,292,1,0,MacBook-Pro.local
+2015-08-06T14:32:12.192+0200,450,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:32:12.625+0200,432,Manage portlets,200,Users 1-1,true,35789,1,1,432,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.063+0200,437,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,437,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.289+0200,226,Personal preferences,200,Users 1-1,true,42574,1,1,226,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.738+0200,448,Personal information,200,Users 1-1,true,36223,1,1,448,1,0,MacBook-Pro.local
+2015-08-06T14:32:14.395+0200,657,Folder contents,200,Users 1-1,true,106338,1,1,657,1,0,MacBook-Pro.local
+2015-08-06T14:32:14.918+0200,522,Manage content rules,200,Users 1-1,true,37782,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:32:15.187+0200,268,Sharing,200,Users 1-1,true,42144,1,1,267,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.048+0200,861,Add Folder (dexterity),200,Users 1-1,true,69286,1,1,139,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.049+0200,6308,Transaction Controller (authenticated),200,Users 1-1,true,638944,1,1,5575,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.126+0200,76,Front-page (anonymous),200,Users 1-1,true,25293,1,1,75,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.163+0200,37,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.207+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.240+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.350+0200,110,Contact info (anonymous),200,Users 1-1,true,29185,1,1,110,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,52,Search (anonymous),200,Users 1-1,true,32848,1,1,52,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,354,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,351,1,0,MacBook-Pro.local
+2015-08-06T14:31:09.096+0200,532,Log in,200,Users 1-1,true,30542,1,1,531,1,0,MacBook-Pro.local
+2015-08-06T14:31:09.469+0200,362,Front-page (authenticated),200,Users 1-1,true,52031,1,1,362,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.182+0200,493,Site map (authenticated),200,Users 1-1,true,32665,1,1,493,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.643+0200,460,Dashboard,200,Users 1-1,true,31045,1,1,460,1,0,MacBook-Pro.local
+2015-08-06T14:31:10.898+0200,254,Dashboard edit,200,Users 1-1,true,42441,1,1,254,1,0,MacBook-Pro.local
+2015-08-06T14:31:11.561+0200,662,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,662,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.059+0200,497,Manage portlets,200,Users 1-1,true,35789,1,1,497,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.496+0200,436,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,436,1,0,MacBook-Pro.local
+2015-08-06T14:31:12.728+0200,231,Personal preferences,200,Users 1-1,true,42574,1,1,231,1,0,MacBook-Pro.local
+2015-08-06T14:31:13.172+0200,444,Personal information,200,Users 1-1,true,36223,1,1,444,1,0,MacBook-Pro.local
+2015-08-06T14:31:13.777+0200,604,Folder contents,200,Users 1-1,true,97442,1,1,604,1,0,MacBook-Pro.local
+2015-08-06T14:31:14.294+0200,516,Manage content rules,200,Users 1-1,true,35928,1,1,516,1,0,MacBook-Pro.local
+2015-08-06T14:31:14.577+0200,282,Sharing,200,Users 1-1,true,40290,1,1,281,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.370+0200,793,Add Folder (dexterity),200,Users 1-1,true,67432,1,1,362,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.373+0200,6815,Transaction Controller (authenticated),200,Users 1-1,true,622632,1,1,6133,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.445+0200,72,Front-page (anonymous),200,Users 1-1,true,25293,1,1,72,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.483+0200,37,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.528+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.560+0200,31,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,31,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.662+0200,101,Contact info (anonymous),200,Users 1-1,true,29185,1,1,101,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.705+0200,43,Search (anonymous),200,Users 1-1,true,32848,1,1,42,1,0,MacBook-Pro.local
+2015-08-06T14:31:15.705+0200,332,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,327,1,0,MacBook-Pro.local
+2015-08-06T14:31:16.187+0200,481,Log in,200,Users 1-1,true,30542,1,1,481,1,0,MacBook-Pro.local
+2015-08-06T14:31:16.781+0200,593,Front-page (authenticated),200,Users 1-1,true,52237,1,1,593,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.243+0200,461,Site map (authenticated),200,Users 1-1,true,32665,1,1,461,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.460+0200,217,Dashboard,200,Users 1-1,true,31045,1,1,217,1,0,MacBook-Pro.local
+2015-08-06T14:31:17.981+0200,520,Dashboard edit,200,Users 1-1,true,42441,1,1,520,1,0,MacBook-Pro.local
+2015-08-06T14:31:18.448+0200,466,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,466,1,0,MacBook-Pro.local
+2015-08-06T14:31:18.737+0200,288,Manage portlets,200,Users 1-1,true,35789,1,1,288,1,0,MacBook-Pro.local
+2015-08-06T14:31:19.208+0200,470,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,470,1,0,MacBook-Pro.local
+2015-08-06T14:31:19.659+0200,450,Personal preferences,200,Users 1-1,true,42574,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.102+0200,443,Personal information,200,Users 1-1,true,36223,1,1,443,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.701+0200,598,Folder contents,200,Users 1-1,true,99429,1,1,597,1,0,MacBook-Pro.local
+2015-08-06T14:31:20.995+0200,293,Manage content rules,200,Users 1-1,true,36134,1,1,293,1,0,MacBook-Pro.local
+2015-08-06T14:31:21.566+0200,571,Sharing,200,Users 1-1,true,40496,1,1,571,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.350+0200,784,Add Folder (dexterity),200,Users 1-1,true,67638,1,1,150,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.351+0200,6645,Transaction Controller (authenticated),200,Users 1-1,true,625443,1,1,6000,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.434+0200,82,Front-page (anonymous),200,Users 1-1,true,25293,1,1,82,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.472+0200,38,Login page (anonymous),200,Users 1-1,true,23535,1,1,38,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.515+0200,43,Site map (anonymous),200,Users 1-1,true,22188,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.549+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,32,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.673+0200,124,Contact info (anonymous),200,Users 1-1,true,29185,1,1,124,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.719+0200,45,Search (anonymous),200,Users 1-1,true,32848,1,1,45,1,0,MacBook-Pro.local
+2015-08-06T14:31:22.720+0200,368,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,364,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.192+0200,471,Log in,200,Users 1-1,true,30542,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.503+0200,310,Front-page (authenticated),200,Users 1-1,true,52443,1,1,309,1,0,MacBook-Pro.local
+2015-08-06T14:31:23.990+0200,486,Site map (authenticated),200,Users 1-1,true,32665,1,1,486,1,0,MacBook-Pro.local
+2015-08-06T14:31:24.433+0200,442,Dashboard,200,Users 1-1,true,31045,1,1,441,1,0,MacBook-Pro.local
+2015-08-06T14:31:24.890+0200,457,Dashboard edit,200,Users 1-1,true,42441,1,1,457,1,0,MacBook-Pro.local
+2015-08-06T14:31:25.140+0200,249,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,249,1,0,MacBook-Pro.local
+2015-08-06T14:31:25.582+0200,441,Manage portlets,200,Users 1-1,true,35789,1,1,441,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.040+0200,457,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,457,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.337+0200,296,Personal preferences,200,Users 1-1,true,42574,1,1,296,1,0,MacBook-Pro.local
+2015-08-06T14:31:26.791+0200,453,Personal information,200,Users 1-1,true,36223,1,1,453,1,0,MacBook-Pro.local
+2015-08-06T14:31:27.408+0200,617,Folder contents,200,Users 1-1,true,101416,1,1,617,1,0,MacBook-Pro.local
+2015-08-06T14:31:27.911+0200,502,Manage content rules,200,Users 1-1,true,36340,1,1,502,1,0,MacBook-Pro.local
+2015-08-06T14:31:28.172+0200,260,Sharing,200,Users 1-1,true,40702,1,1,260,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.009+0200,836,Add Folder (dexterity),200,Users 1-1,true,67844,1,1,132,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.010+0200,6289,Transaction Controller (authenticated),200,Users 1-1,true,628254,1,1,5571,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.082+0200,72,Front-page (anonymous),200,Users 1-1,true,25293,1,1,72,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.122+0200,39,Login page (anonymous),200,Users 1-1,true,23535,1,1,38,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.171+0200,49,Site map (anonymous),200,Users 1-1,true,22188,1,1,49,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.205+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.310+0200,105,Contact info (anonymous),200,Users 1-1,true,29185,1,1,105,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.359+0200,48,Search (anonymous),200,Users 1-1,true,32848,1,1,47,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.359+0200,349,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,344,1,0,MacBook-Pro.local
+2015-08-06T14:31:29.807+0200,447,Log in,200,Users 1-1,true,30542,1,1,446,1,0,MacBook-Pro.local
+2015-08-06T14:31:30.110+0200,303,Front-page (authenticated),200,Users 1-1,true,52649,1,1,303,1,0,MacBook-Pro.local
+2015-08-06T14:31:30.562+0200,450,Site map (authenticated),200,Users 1-1,true,32665,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.001+0200,438,Dashboard,200,Users 1-1,true,31045,1,1,438,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.534+0200,532,Dashboard edit,200,Users 1-1,true,42441,1,1,532,1,0,MacBook-Pro.local
+2015-08-06T14:31:31.797+0200,262,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,262,1,0,MacBook-Pro.local
+2015-08-06T14:31:32.284+0200,486,Manage portlets,200,Users 1-1,true,35789,1,1,486,1,0,MacBook-Pro.local
+2015-08-06T14:31:32.734+0200,450,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:31:33.195+0200,461,Personal preferences,200,Users 1-1,true,42574,1,1,460,1,0,MacBook-Pro.local
+2015-08-06T14:31:33.424+0200,228,Personal information,200,Users 1-1,true,36223,1,1,228,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.032+0200,607,Folder contents,200,Users 1-1,true,103403,1,1,606,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.545+0200,513,Manage content rules,200,Users 1-1,true,36546,1,1,513,1,0,MacBook-Pro.local
+2015-08-06T14:31:34.827+0200,281,Sharing,200,Users 1-1,true,40908,1,1,281,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.665+0200,837,Add Folder (dexterity),200,Users 1-1,true,68050,1,1,132,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.666+0200,6307,Transaction Controller (authenticated),200,Users 1-1,true,631065,1,1,5587,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.738+0200,71,Front-page (anonymous),200,Users 1-1,true,25293,1,1,71,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.777+0200,38,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.821+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.854+0200,32,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,32,1,0,MacBook-Pro.local
+2015-08-06T14:31:35.954+0200,99,Contact info (anonymous),200,Users 1-1,true,29185,1,1,99,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.000+0200,45,Search (anonymous),200,Users 1-1,true,32848,1,1,45,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.001+0200,335,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,328,1,0,MacBook-Pro.local
+2015-08-06T14:31:36.464+0200,463,Log in,200,Users 1-1,true,30542,1,1,463,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.004+0200,539,Front-page (authenticated),200,Users 1-1,true,52855,1,1,539,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.251+0200,247,Site map (authenticated),200,Users 1-1,true,32665,1,1,246,1,0,MacBook-Pro.local
+2015-08-06T14:31:37.691+0200,440,Dashboard,200,Users 1-1,true,31045,1,1,440,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.147+0200,455,Dashboard edit,200,Users 1-1,true,42441,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.611+0200,464,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:38.901+0200,289,Manage portlets,200,Users 1-1,true,35789,1,1,289,1,0,MacBook-Pro.local
+2015-08-06T14:31:39.391+0200,489,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,489,1,0,MacBook-Pro.local
+2015-08-06T14:31:39.846+0200,454,Personal preferences,200,Users 1-1,true,42574,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:40.306+0200,459,Personal information,200,Users 1-1,true,36223,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:31:40.698+0200,392,Folder contents,200,Users 1-1,true,105308,1,1,392,1,0,MacBook-Pro.local
+2015-08-06T14:31:41.204+0200,505,Manage content rules,200,Users 1-1,true,36752,1,1,505,1,0,MacBook-Pro.local
+2015-08-06T14:31:41.775+0200,570,Sharing,200,Users 1-1,true,41114,1,1,570,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.558+0200,783,Add Folder (dexterity),200,Users 1-1,true,68256,1,1,145,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.559+0200,6558,Transaction Controller (authenticated),200,Users 1-1,true,633794,1,1,5909,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.634+0200,75,Front-page (anonymous),200,Users 1-1,true,25293,1,1,74,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.667+0200,33,Login page (anonymous),200,Users 1-1,true,23535,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.711+0200,43,Site map (anonymous),200,Users 1-1,true,22188,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.740+0200,29,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,29,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.839+0200,98,Contact info (anonymous),200,Users 1-1,true,29185,1,1,98,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.882+0200,43,Search (anonymous),200,Users 1-1,true,32848,1,1,43,1,0,MacBook-Pro.local
+2015-08-06T14:31:42.883+0200,324,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,320,1,0,MacBook-Pro.local
+2015-08-06T14:31:43.116+0200,233,Log in,200,Users 1-1,true,30542,1,1,233,1,0,MacBook-Pro.local
+2015-08-06T14:31:43.640+0200,524,Front-page (authenticated),200,Users 1-1,true,53061,1,1,524,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.158+0200,517,Site map (authenticated),200,Users 1-1,true,32665,1,1,517,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.390+0200,231,Dashboard,200,Users 1-1,true,31045,1,1,231,1,0,MacBook-Pro.local
+2015-08-06T14:31:44.855+0200,464,Dashboard edit,200,Users 1-1,true,42441,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:45.370+0200,514,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,514,1,0,MacBook-Pro.local
+2015-08-06T14:31:45.647+0200,276,Manage portlets,200,Users 1-1,true,35789,1,1,276,1,0,MacBook-Pro.local
+2015-08-06T14:31:46.100+0200,452,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,452,1,0,MacBook-Pro.local
+2015-08-06T14:31:46.646+0200,546,Personal preferences,200,Users 1-1,true,42574,1,1,546,1,0,MacBook-Pro.local
+2015-08-06T14:31:47.088+0200,442,Personal information,200,Users 1-1,true,36223,1,1,442,1,0,MacBook-Pro.local
+2015-08-06T14:31:47.495+0200,406,Folder contents,200,Users 1-1,true,105514,1,1,406,1,0,MacBook-Pro.local
+2015-08-06T14:31:48.004+0200,508,Manage content rules,200,Users 1-1,true,36958,1,1,508,1,0,MacBook-Pro.local
+2015-08-06T14:31:48.477+0200,472,Sharing,200,Users 1-1,true,41320,1,1,472,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.343+0200,865,Add Folder (dexterity),200,Users 1-1,true,68462,1,1,139,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.344+0200,6461,Transaction Controller (authenticated),200,Users 1-1,true,634824,1,1,5724,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.418+0200,74,Front-page (anonymous),200,Users 1-1,true,25293,1,1,74,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.454+0200,36,Login page (anonymous),200,Users 1-1,true,23535,1,1,36,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.501+0200,46,Site map (anonymous),200,Users 1-1,true,22188,1,1,46,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.535+0200,34,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.637+0200,101,Contact info (anonymous),200,Users 1-1,true,29185,1,1,101,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.687+0200,49,Search (anonymous),200,Users 1-1,true,32848,1,1,48,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.687+0200,343,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,339,1,0,MacBook-Pro.local
+2015-08-06T14:31:49.913+0200,226,Log in,200,Users 1-1,true,30542,1,1,226,1,0,MacBook-Pro.local
+2015-08-06T14:31:50.436+0200,522,Front-page (authenticated),200,Users 1-1,true,53267,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:31:50.899+0200,462,Site map (authenticated),200,Users 1-1,true,32665,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:31:51.137+0200,237,Dashboard,200,Users 1-1,true,31045,1,1,237,1,0,MacBook-Pro.local
+2015-08-06T14:31:51.694+0200,557,Dashboard edit,200,Users 1-1,true,42441,1,1,557,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.154+0200,459,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.591+0200,436,Manage portlets,200,Users 1-1,true,35789,1,1,436,1,0,MacBook-Pro.local
+2015-08-06T14:31:52.822+0200,230,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,230,1,0,MacBook-Pro.local
+2015-08-06T14:31:53.277+0200,454,Personal preferences,200,Users 1-1,true,42574,1,1,454,1,0,MacBook-Pro.local
+2015-08-06T14:31:53.729+0200,451,Personal information,200,Users 1-1,true,36223,1,1,451,1,0,MacBook-Pro.local
+2015-08-06T14:31:54.413+0200,684,Folder contents,200,Users 1-1,true,105720,1,1,684,1,0,MacBook-Pro.local
+2015-08-06T14:31:54.703+0200,290,Manage content rules,200,Users 1-1,true,37164,1,1,290,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.179+0200,475,Sharing,200,Users 1-1,true,41526,1,1,475,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.943+0200,764,Add Folder (dexterity),200,Users 1-1,true,68668,1,1,140,1,0,MacBook-Pro.local
+2015-08-06T14:31:55.945+0200,6258,Transaction Controller (authenticated),200,Users 1-1,true,635854,1,1,5623,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.012+0200,67,Front-page (anonymous),200,Users 1-1,true,25293,1,1,67,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.047+0200,35,Login page (anonymous),200,Users 1-1,true,23535,1,1,35,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.092+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.126+0200,34,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.233+0200,106,Contact info (anonymous),200,Users 1-1,true,29185,1,1,106,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.284+0200,50,Search (anonymous),200,Users 1-1,true,32848,1,1,50,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.284+0200,339,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,336,1,0,MacBook-Pro.local
+2015-08-06T14:31:56.578+0200,293,Log in,200,Users 1-1,true,30542,1,1,293,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.115+0200,536,Front-page (authenticated),200,Users 1-1,true,53473,1,1,536,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.580+0200,464,Site map (authenticated),200,Users 1-1,true,32665,1,1,464,1,0,MacBook-Pro.local
+2015-08-06T14:31:57.823+0200,243,Dashboard,200,Users 1-1,true,31045,1,1,242,1,0,MacBook-Pro.local
+2015-08-06T14:31:58.294+0200,471,Dashboard edit,200,Users 1-1,true,42441,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:31:58.762+0200,467,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,467,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.264+0200,502,Manage portlets,200,Users 1-1,true,35789,1,1,502,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.499+0200,234,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,234,1,0,MacBook-Pro.local
+2015-08-06T14:31:59.949+0200,449,Personal preferences,200,Users 1-1,true,42574,1,1,449,1,0,MacBook-Pro.local
+2015-08-06T14:32:00.412+0200,462,Personal information,200,Users 1-1,true,36223,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.027+0200,614,Folder contents,200,Users 1-1,true,105926,1,1,614,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.349+0200,321,Manage content rules,200,Users 1-1,true,37370,1,1,321,1,0,MacBook-Pro.local
+2015-08-06T14:32:01.882+0200,533,Sharing,200,Users 1-1,true,41732,1,1,533,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.645+0200,762,Add Folder (dexterity),200,Users 1-1,true,68874,1,1,141,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.646+0200,6361,Transaction Controller (authenticated),200,Users 1-1,true,636884,1,1,5729,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.718+0200,71,Front-page (anonymous),200,Users 1-1,true,25293,1,1,71,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.753+0200,34,Login page (anonymous),200,Users 1-1,true,23535,1,1,34,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.796+0200,42,Site map (anonymous),200,Users 1-1,true,22188,1,1,42,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.830+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.933+0200,102,Contact info (anonymous),200,Users 1-1,true,29185,1,1,102,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.982+0200,48,Search (anonymous),200,Users 1-1,true,32848,1,1,48,1,0,MacBook-Pro.local
+2015-08-06T14:32:02.982+0200,336,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,330,1,0,MacBook-Pro.local
+2015-08-06T14:32:03.241+0200,258,Log in,200,Users 1-1,true,30542,1,1,258,1,0,MacBook-Pro.local
+2015-08-06T14:32:03.816+0200,574,Front-page (authenticated),200,Users 1-1,true,53679,1,1,574,1,0,MacBook-Pro.local
+2015-08-06T14:32:04.339+0200,522,Site map (authenticated),200,Users 1-1,true,32665,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:32:04.793+0200,453,Dashboard,200,Users 1-1,true,31045,1,1,453,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.033+0200,239,Dashboard edit,200,Users 1-1,true,42441,1,1,239,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.495+0200,462,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,462,1,0,MacBook-Pro.local
+2015-08-06T14:32:05.946+0200,450,Manage portlets,200,Users 1-1,true,35789,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:32:06.185+0200,239,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,239,1,0,MacBook-Pro.local
+2015-08-06T14:32:06.697+0200,511,Personal preferences,200,Users 1-1,true,42574,1,1,511,1,0,MacBook-Pro.local
+2015-08-06T14:32:07.136+0200,438,Personal information,200,Users 1-1,true,36223,1,1,438,1,0,MacBook-Pro.local
+2015-08-06T14:32:07.741+0200,604,Folder contents,200,Users 1-1,true,106132,1,1,604,1,0,MacBook-Pro.local
+2015-08-06T14:32:08.041+0200,299,Manage content rules,200,Users 1-1,true,37576,1,1,298,1,0,MacBook-Pro.local
+2015-08-06T14:32:08.548+0200,507,Sharing,200,Users 1-1,true,41938,1,1,507,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.369+0200,820,Add Folder (dexterity),200,Users 1-1,true,69080,1,1,143,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.370+0200,6387,Transaction Controller (authenticated),200,Users 1-1,true,637914,1,1,5698,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.446+0200,76,Front-page (anonymous),200,Users 1-1,true,25293,1,1,76,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.488+0200,41,Login page (anonymous),200,Users 1-1,true,23535,1,1,41,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.534+0200,46,Site map (anonymous),200,Users 1-1,true,22188,1,1,46,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.567+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.688+0200,120,Contact info (anonymous),200,Users 1-1,true,29185,1,1,120,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.740+0200,51,Search (anonymous),200,Users 1-1,true,32848,1,1,51,1,0,MacBook-Pro.local
+2015-08-06T14:32:09.741+0200,371,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,367,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.200+0200,459,Log in,200,Users 1-1,true,30542,1,1,459,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.514+0200,314,Front-page (authenticated),200,Users 1-1,true,53885,1,1,314,1,0,MacBook-Pro.local
+2015-08-06T14:32:10.986+0200,471,Site map (authenticated),200,Users 1-1,true,32665,1,1,471,1,0,MacBook-Pro.local
+2015-08-06T14:32:11.448+0200,461,Dashboard,200,Users 1-1,true,31045,1,1,461,1,0,MacBook-Pro.local
+2015-08-06T14:32:11.742+0200,293,Dashboard edit,200,Users 1-1,true,42441,1,1,292,1,0,MacBook-Pro.local
+2015-08-06T14:32:12.192+0200,450,Dashboard - add calendar portlet,200,Users 1-1,true,42441,1,1,450,1,0,MacBook-Pro.local
+2015-08-06T14:32:12.625+0200,432,Manage portlets,200,Users 1-1,true,35789,1,1,432,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.063+0200,437,Manage portlets - add calendar portlet,200,Users 1-1,true,35789,1,1,437,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.289+0200,226,Personal preferences,200,Users 1-1,true,42574,1,1,226,1,0,MacBook-Pro.local
+2015-08-06T14:32:13.738+0200,448,Personal information,200,Users 1-1,true,36223,1,1,448,1,0,MacBook-Pro.local
+2015-08-06T14:32:14.395+0200,657,Folder contents,200,Users 1-1,true,106338,1,1,657,1,0,MacBook-Pro.local
+2015-08-06T14:32:14.918+0200,522,Manage content rules,200,Users 1-1,true,37782,1,1,522,1,0,MacBook-Pro.local
+2015-08-06T14:32:15.187+0200,268,Sharing,200,Users 1-1,true,42144,1,1,267,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.048+0200,861,Add Folder (dexterity),200,Users 1-1,true,69286,1,1,139,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.049+0200,6308,Transaction Controller (authenticated),200,Users 1-1,true,638944,1,1,5575,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.126+0200,76,Front-page (anonymous),200,Users 1-1,true,25293,1,1,75,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.163+0200,37,Login page (anonymous),200,Users 1-1,true,23535,1,1,37,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.207+0200,44,Site map (anonymous),200,Users 1-1,true,22188,1,1,44,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.240+0200,33,Accessibility info (anonymous),200,Users 1-1,true,23077,1,1,33,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.350+0200,110,Contact info (anonymous),200,Users 1-1,true,29185,1,1,110,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,52,Search (anonymous),200,Users 1-1,true,32848,1,1,52,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,354,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,351,1,0,MacBook-Pro.local
+2015-08-06T14:32:16.403+0200,354,Transaction Controller (anonymous),200,Users 1-1,true,156126,1,1,351,1,0,MacBook-Pro.local
