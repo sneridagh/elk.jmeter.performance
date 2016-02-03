@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "[scala.blanquerna.edu]-Login",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu] Login",
+      "visState": "{\"type\":\"line\",\"params\":{\"addLegend\":true,\"addTimeMarker\":true,\"addTooltip\":true,\"defaultYExtents\":false,\"drawLinesBetweenPoints\":true,\"interpolate\":\"linear\",\"radiusRatio\":9,\"scale\":\"linear\",\"setYExtents\":false,\"shareYAxis\":true,\"showCircles\":true,\"smoothLines\":true,\"times\":[],\"yAxis\":{},\"spyPerPage\":10},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}},{\"id\":\"2\",\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"@timestamp\",\"interval\":\"h\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}],\"listeners\":{}}",
+      "uiStateJSON": "{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"*\"}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Log in\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Log in\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu][auth]-Homepage",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu][auth] Homepage",
+      "visState": "{\"type\":\"line\",\"params\":{\"shareYAxis\":true,\"addTooltip\":true,\"addLegend\":true,\"showCircles\":true,\"smoothLines\":true,\"interpolate\":\"linear\",\"scale\":\"linear\",\"drawLinesBetweenPoints\":true,\"radiusRatio\":9,\"times\":[],\"addTimeMarker\":true,\"defaultYExtents\":false,\"setYExtents\":false,\"yAxis\":{}},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}},{\"id\":\"2\",\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"@timestamp\",\"interval\":\"h\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Homepage (authenticated)\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Homepage (authenticated)\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu][anon]-Login",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu][anon] Login",
+      "visState": "{\"type\":\"line\",\"params\":{\"addLegend\":true,\"addTimeMarker\":true,\"addTooltip\":true,\"defaultYExtents\":false,\"drawLinesBetweenPoints\":true,\"interpolate\":\"linear\",\"radiusRatio\":9,\"scale\":\"linear\",\"setYExtents\":false,\"shareYAxis\":true,\"showCircles\":true,\"smoothLines\":true,\"times\":[],\"yAxis\":{}},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}},{\"id\":\"2\",\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"@timestamp\",\"interval\":\"h\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"*\"}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Login page (anonymous)\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Login page (anonymous)\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu]-Folder-contents",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu] Folder contents",
+      "visState": "{\"type\":\"line\",\"params\":{\"shareYAxis\":true,\"addTooltip\":true,\"addLegend\":true,\"showCircles\":true,\"smoothLines\":true,\"interpolate\":\"linear\",\"scale\":\"linear\",\"drawLinesBetweenPoints\":true,\"radiusRatio\":9,\"times\":[],\"addTimeMarker\":true,\"defaultYExtents\":false,\"setYExtents\":false,\"yAxis\":{}},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}},{\"id\":\"2\",\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"@timestamp\",\"interval\":\"h\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Folder contents\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Folder contents\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu]-Edit",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu] Edit",
+      "visState": "{\"type\":\"line\",\"params\":{\"shareYAxis\":true,\"addTooltip\":true,\"addLegend\":true,\"showCircles\":true,\"smoothLines\":true,\"interpolate\":\"linear\",\"scale\":\"linear\",\"drawLinesBetweenPoints\":true,\"radiusRatio\":9,\"times\":[],\"addTimeMarker\":true,\"defaultYExtents\":false,\"setYExtents\":false,\"yAxis\":{}},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}},{\"id\":\"2\",\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"@timestamp\",\"interval\":\"h\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"$state\":{\"store\":\"appState\"},\"meta\":{\"alias\":null,\"disabled\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"negate\":false,\"value\":\"https://scala.blanquerna.edu\"},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}}},{\"$state\":{\"store\":\"appState\"},\"meta\":{\"alias\":null,\"disabled\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"negate\":false,\"value\":\"Edit\"},\"query\":{\"match\":{\"label\":{\"query\":\"Edit\",\"type\":\"phrase\"}}}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu][auth]-Homepage-Average",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu][auth] Homepage Average",
+      "visState": "{\"type\":\"metric\",\"params\":{\"fontSize\":\"49\"},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Homepage (authenticated)\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Homepage (authenticated)\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu][anon]-Login-Average",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu][anon] Login Average",
+      "visState": "{\"type\":\"metric\",\"params\":{\"fontSize\":\"49\"},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Login page (anonymous)\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Login page (anonymous)\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu]-Folder-contents-Average",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu] Folder contents Average",
+      "visState": "{\"type\":\"metric\",\"params\":{\"fontSize\":\"49\"},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Folder contents\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Folder contents\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu]-Login-Average",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu] Login Average",
+      "visState": "{\"type\":\"metric\",\"params\":{\"fontSize\":\"49\"},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"value\":\"Log in\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"label\":{\"query\":\"Log in\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}},{\"meta\":{\"negate\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"value\":\"https://scala.blanquerna.edu\",\"disabled\":false,\"alias\":null},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+      }
+    }
+  },
+  {
+    "_id": "[scala.blanquerna.edu]-Edit-Average",
+    "_type": "visualization",
+    "_source": {
+      "title": "[scala.blanquerna.edu] Edit Average",
+      "visState": "{\"type\":\"metric\",\"params\":{\"fontSize\":\"49\"},\"aggs\":[{\"id\":\"1\",\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"elapsed\"}}],\"listeners\":{}}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"jmeter-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[{\"$state\":{\"store\":\"appState\"},\"meta\":{\"alias\":null,\"disabled\":false,\"index\":\"jmeter-*\",\"key\":\"URL\",\"negate\":false,\"value\":\"https://scala.blanquerna.edu\"},\"query\":{\"match\":{\"URL\":{\"query\":\"https://scala.blanquerna.edu\",\"type\":\"phrase\"}}}},{\"$state\":{\"store\":\"appState\"},\"meta\":{\"alias\":null,\"disabled\":false,\"index\":\"jmeter-*\",\"key\":\"label\",\"negate\":false,\"value\":\"Edit\"},\"query\":{\"match\":{\"label\":{\"query\":\"Edit\",\"type\":\"phrase\"}}}}]}"
+      }
+    }
+  }
+]
